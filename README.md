@@ -25,5 +25,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=kakudiego&show_icons=true" alt="kakudiego" /> ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kakudiego&layout=compact)
 <img src="https://komarev.com/ghpvc/?username=yourusername" alt="yourusername" />
 
-[![Portifolio](https://github-readme-stats.vercel.app/api/pin/?username=kakudiego&repo=C-20-React_React-Portifolio)](https://github.com/kakudiego/C-20-React_React-Portifolio)
-
+<!-- [![Portifolio](https://github-readme-stats.vercel.app/api/pin/?username=kakudiego&repo=C-20-React_React-Portifolio)](https://github.com/kakudiego/C-20-React_React-Portifolio)
+[![Weather APP](https://github-readme-stats.vercel.app/api/pin/?username=kakudiego&repo=C-6-Server-Side-APIs_Weather-Dashboard)](https://github.com/kakudiego/C-6-Server-Side-APIs_Weather-Dashboard) -->
